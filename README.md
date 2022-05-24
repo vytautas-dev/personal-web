@@ -1,4 +1,5 @@
 # personal-web 👨
+Personal web created by React
 ## Quick Start
 ### Install client dependencies
 ```bash
