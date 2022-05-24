@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/static/js/main.474c2961.chunk.js",
+    "main.js.map": "/static/js/main.474c2961.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.578df7c8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.578df7c8.js.map",
+    "static/js/2.21c7f037.chunk.js": "/static/js/2.21c7f037.chunk.js",
+    "static/js/2.21c7f037.chunk.js.map": "/static/js/2.21c7f037.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.21c7f037.chunk.js.LICENSE.txt": "/static/js/2.21c7f037.chunk.js.LICENSE.txt",
+    "static/media/bike-unite.da320720.jpg": "/static/media/bike-unite.da320720.jpg",
+    "static/media/img1.9fa4297e.svg": "/static/media/img1.9fa4297e.svg",
+    "static/media/img2.bfc255b0.svg": "/static/media/img2.bfc255b0.svg",
+    "static/media/mail-sent.eae7ab7b.svg": "/static/media/mail-sent.eae7ab7b.svg",
+    "static/media/personal-web.d7d70b2f.jpg": "/static/media/personal-web.d7d70b2f.jpg",
+    "static/media/profile.64b51d7c.png": "/static/media/profile.64b51d7c.png",
+    "static/media/todo-app.c4c9717a.jpg": "/static/media/todo-app.c4c9717a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.578df7c8.js",
+    "static/js/2.21c7f037.chunk.js",
+    "static/js/main.474c2961.chunk.js"
+  ]
+}
